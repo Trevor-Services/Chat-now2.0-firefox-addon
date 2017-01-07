@@ -1,0 +1,27 @@
+Manifest-Version: 1.0
+
+Name: manifest.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: oDi4Z+vWyo/mZUCgrMXxRg==
+SHA1-Digest: FS16Jxtuf/C0SYF4IIa874QobPE=
+
+Name: icons/chatnow-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +Yy0w954mx5ORUSipV73nA==
+SHA1-Digest: 7VDkCSxp0B3DJI9gkGUkhpfFNGo=
+
+Name: icons/chatnow-48.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FY90ypHlSkMNQJLXAoUAEQ==
+SHA1-Digest: sCzZhq/NSXbJKFNu6FuZ9mrh7gE=
+
+Name: icons/quicknote-32.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +5rKUiQW5740sz5coySAvw==
+SHA1-Digest: bFEnlzbTWZWtzbmSMK+Pe08lODc=
+
+Name: popup/chatnow.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1+1eDTbrv92bYMvkHdrjkg==
+SHA1-Digest: ea19OYRaHt7zOwP2q2aw9MjgSLM=
+
